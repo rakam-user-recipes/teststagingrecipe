@@ -5,4 +5,4 @@
     materialized = "table"
   )
 }}
-select 1
+select 1 as test
