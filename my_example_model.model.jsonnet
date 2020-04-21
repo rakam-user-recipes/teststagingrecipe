@@ -1,7 +1,7 @@
 {
   name : "my_example_model",
   target : {
-    database : "RAKAM_ANALYTICS",
+    database : "RAKAM_ANALYTICS", 
     schema : "EVENTS",
     table : "MY_EXAMPLE_MODEL"
   },
